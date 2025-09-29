@@ -19,3 +19,7 @@ Lecturer: Yurii Paniv
 
 Assignments:  
 [Assignment 1: Text Classification - Sentiment Analysis](https://github.com/robinhad/ucu-nlp-course/tree/main/Assignments/Task%201%20-%20Text%20Classification)  
+
+
+Practice 3: Neural Machine Translation - 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_03_Neural_Machine_translation.ipynb)
