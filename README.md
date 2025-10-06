@@ -23,3 +23,9 @@ Assignments:
 
 Practice 3: Neural Machine Translation - 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice_03_Neural_Machine_translation.ipynb)
+
+Practice 4: 
+- Sequence Labelling - 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice-04_Sequence_Labelling.ipynb)
+- NER - 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhad/ucu-nlp-course/blob/main/Practices/Practice-04_NER.ipynb)
